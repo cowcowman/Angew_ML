@@ -46,4 +46,4 @@ Using too large a value of λ can cause your hypothesis to underfit the data.
 Analysis: 
 for question 3:
 
-
+Regularized logistic regression and regularized linear regression are both convex, and thus gradient descent will still converge to the global minimum.
